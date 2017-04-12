@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1186C742397BD74C2D4EB9949D1E4C9BD476C747",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "63BA2BD34797DE483DDB5B84E9E00B385E583F85" : 9223372036854775807,
+    "1186C742397BD74C2D4EB9949D1E4C9BD476C747" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "79F723AD-DF48-4B84-91C6-27B4543E6F06",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "63BA2BD34797DE483DDB5B84E9E00B385E583F85" : "..",
+    "1186C742397BD74C2D4EB9949D1E4C9BD476C747" : "ios-decal-lab4\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PokedexLab",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PokedexLab.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/iosdecal\/ios-decal-lab4",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1186C742397BD74C2D4EB9949D1E4C9BD476C747"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/tom_kim\/iosDecal",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "63BA2BD34797DE483DDB5B84E9E00B385E583F85"
+    }
+  ]
+}
